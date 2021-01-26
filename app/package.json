@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "start": "node selampak.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "quick.db": "^7.1.2",
+    "discord.js": "^12.4.0",
+    "node-fetch": "^2.6.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "jsonsqlite": "^1.0.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT"
+}
